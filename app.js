@@ -23,7 +23,6 @@ app.get('/user/:name', (req,res) =>{
 })
 
 
-
 app.listen(PORT, () => {
     console.log(`Server running... ${PORT}`)
 })
