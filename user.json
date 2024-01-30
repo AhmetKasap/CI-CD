@@ -1,0 +1,92 @@
+[
+    {
+        "name": "ahmet",
+        "surname": "test",
+        "age": "22",
+        "email": "test@gmail.com"
+    },
+    {
+        "name": "mehmet",
+        "surname": "example",
+        "age": "25",
+        "email": "example@gmail.com"
+    },
+    {
+        "name": "ayşe",
+        "surname": "sample",
+        "age": "28",
+        "email": "sample@gmail.com"
+    },
+    {
+        "name": "mustafa",
+        "surname": "demo",
+        "age": "30",
+        "email": "demo@gmail.com"
+    },
+    {
+        "name": "elif",
+        "surname": "trial",
+        "age": "23",
+        "email": "trial@gmail.com"
+    },
+    {
+        "name": "ali",
+        "surname": "testing",
+        "age": "26",
+        "email": "testing@gmail.com"
+    },
+    {
+        "name": "fatma",
+        "surname": "tryout",
+        "age": "29",
+        "email": "tryout@gmail.com"
+    },
+    {
+        "name": "hüseyin",
+        "surname": "attempt",
+        "age": "32",
+        "email": "attempt@gmail.com"
+    },
+    {
+        "name": "sibel",
+        "surname": "pilot",
+        "age": "31",
+        "email": "pilot@gmail.com"
+    },
+    {
+        "name": "emre",
+        "surname": "engineer",
+        "age": "27",
+        "email": "engineer@gmail.com"
+    },
+    {
+        "name": "sevil",
+        "surname": "scientist",
+        "age": "35",
+        "email": "scientist@gmail.com"
+    },
+    {
+        "name": "murat",
+        "surname": "researcher",
+        "age": "33",
+        "email": "researcher@gmail.com"
+    },
+    {
+        "name": "gizem",
+        "surname": "developer",
+        "age": "28",
+        "email": "developer@gmail.com"
+    },
+    {
+        "name": "onur",
+        "surname": "designer",
+        "age": "26",
+        "email": "designer@gmail.com"
+    },
+    {
+        "name": "deniz",
+        "surname": "writer",
+        "age": "30",
+        "email": "writer@gmail.com"
+    }
+]
