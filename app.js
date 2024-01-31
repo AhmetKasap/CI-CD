@@ -14,7 +14,13 @@ app.get('/user', (req,res) => {
     res.json(user)
 })
 
+app.get('/user/:name', (req,res) =>{
+    const name = req.params.name
+    user.find(data => {
+        if(data.name === name) res.send(data)
+    })
 
+})
 
 
 
