@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: node-cicd
-        image: ahmetkasap/node-cicd:latest
+        image: ahmetkasap/node-cicd:12
         ports:
         - containerPort: 5000
