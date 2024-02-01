@@ -7,7 +7,7 @@ const fs = require('fs');
 const user = JSON.parse(fs.readFileSync('user.json', 'utf8'));
 
 app.get('/', (req,res) => {
-    res.send('start')
+    res.send('ahmet')
 })
 
 app.get('/user', (req,res) => {
